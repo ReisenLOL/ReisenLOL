@@ -14,6 +14,10 @@ You probably found me from discord. Or maybe you came here from my Rentry which 
 - Blender 3D Modeller/Animator
   - Actually hasn't done much but made a cool sword on her own.
   - 5 days since i've started.
+- Touhou Fan
+  - Absolutely loves and is attached to Touhou
+  - Favorite characters are Reisen and Youmu, favorite ship is Udomyon (if it wasn't obvious enough!)
+  - Got into Touhou back in 2020, but known about it a long time earlier 
 - Music Composer (rarely)
 - Fedora Linux User
 - Prefers self-learning. Tutorals do not work well on her that much, as she learns best by interacting with whatever she is learning.
