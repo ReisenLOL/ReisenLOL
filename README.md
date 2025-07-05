@@ -1,5 +1,5 @@
 # ABOUT
-You probably found me from discord. Or maybe you came here from my Rentry which is linked on my other places. Or maybe from Itch. I'd be surprised if someone came here from there. Anyway, if you're here, you're bored enough to be reading this whole about me. This design is sorta stolen from a cool guy, sorry. I'll probably move all of this to a personal site once I learn web dev.
+You probably found me from discord. Or maybe you came here from my Rentry which is linked on my other places. Or maybe from Itch. I'd be surprised if someone came here from there. Anyway, if you're here, you're bored enough to be reading this whole text about me. This design is sorta stolen from a cool guy, sorry. I'll probably move all of this to a personal site once I learn web dev.
 ### Properties
 - Unity Game Developer
   - Writes the worlds most okayest C# code
@@ -24,3 +24,5 @@ You probably found me from discord. Or maybe you came here from my Rentry which 
 - Difficulty talking, so you'll sometimes notice her to be pretty quiet at times, or not responding. But she's listening, don't worry
 
 (god it feels weird talking in third person, but the properties of sylvia listed!)
+If you read all that, send me a dm on discord lol, i won't bite, promise!
+discord: ReisenLOL
