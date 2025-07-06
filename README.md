@@ -4,7 +4,7 @@ You probably found me from discord. Or maybe you came here from my Rentry which 
 - Unity Game Developer
   - Writes the worlds most okayest C# code
   - Games are always Touhou fangames
-  - Not very good at coming up with actual game ideas. Pretty sad, yeah.
+  - Not very good at coming up with actual game ideas.
   - At the time of writing (7/5/25), has completed 185 days of game development, without a single day missed.
 - Artist
   - Very beginner artist
@@ -13,7 +13,7 @@ You probably found me from discord. Or maybe you came here from my Rentry which 
   - Only draws touhou fanart. I wonder why.
 - Blender 3D Modeller/Animator
   - Actually hasn't done much but made a cool sword on her own.
-  - 5 days since i've started.
+  - Currently has done only 5 days since starting.
 - Touhou Fan
   - Absolutely loves and is attached to Touhou
   - Favorite characters are Reisen and Youmu, favorite ship is Udomyon (if it wasn't obvious enough!)
